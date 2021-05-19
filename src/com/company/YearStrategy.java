@@ -1,5 +1,5 @@
 package com.company;
 
-public interface TaxStrategy {
+public interface YearStrategy {
     public void calculateTax();
 }

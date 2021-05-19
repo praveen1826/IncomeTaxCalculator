@@ -1,5 +1,5 @@
 package com.company;
 
 public interface AgeStrategy {
-    public void taxExemption();
+    public double taxExemption(double taxxxx);
 }
